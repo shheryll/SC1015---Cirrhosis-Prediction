@@ -6,21 +6,24 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 Here is an outline of the code:
  - Data Extraction
- - Data Visualisation and Exploratory Analysis 
+   1. Dealing with missing values in the dataset
+   2. Removing insignificant columns
+   3. Removing outliers
+ - Data Visualisation 
    1. Plot.ly
    2. Matplotlib
-   3. Seaborn
-   4. Decision Tree
-   
+ - Data Exploratory Analysis 
+   1. Decision Tree Classifier for Discrete Data
+   2. Barplot for continuous data
  - Model Selection
    1. Random Forest Classifier
    2. Logistic Regression
    3. KNN neighbour
    4. Bagging 
-   
  - Results Analysis
-   1. Receiver Operating Characteristic (ROC) Curve
-   2. SHAP model
+   1. Model Accuracy across variables
+   2. Receiver Operating Characteristic (ROC) Curve
+   3. SHAP model
 
 ## Dataset Information
 The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984. It consists of 418 patient records with 20 information attributes.
