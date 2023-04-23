@@ -19,9 +19,9 @@ Here is an outline of the code:
 The following data contains the information collected from the Mayo Clinic trial in primary biliary cirrhosis (PBC) of the liver conducted between 1974 and 1984. It consists of 418 patient records with 20 information attributes.
 
 ## Contributions
-Anjali
-Qiao Shi
-Sheryl
+- Anjali
+- Qiao Shi
+- Sheryl
 
 ## Problem Definition
 - Based on collected medical information, can we predict if a patient is in early or late stage of liver cirrhosis?
@@ -63,11 +63,18 @@ Results Analysis
 
 ## References
 https://www.kaggle.com/fedesoriano/cirrhosis-prediction-dataset
+
 [Box plots in Python (plotly.com)](https://plotly.com/python/box-plots/)
+
 [Histograms in Python (plotly.com)](https://plotly.com/python/histograms/)
+
 [[Using SHAP Values to Explain How Your Machine Learning Model Works | by Vinícius Trevisan | Towards Data Science\](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)
+
 [Bagging Basics | Kaggle](https://www.kaggle.com/code/suryadeepti/bagging-basics)
+
 [Logistic Regression Classifier Tutorial | Kaggle](https://www.kaggle.com/code/prashant111/logistic-regression-classifier-tutorial)
+
 [kNN Classifier Tutorial | Kaggle](https://www.kaggle.com/code/prashant111/knn-classifier-tutorial)
+
 [Gastric Cancer Disease | Google Slides and PowerPoint (slidesgo.com)
 ](https://slidesgo.com/theme/gastric-cancer-disease#search-Gastric+Cancer+Disease&position-1&results-1&rs=search)
