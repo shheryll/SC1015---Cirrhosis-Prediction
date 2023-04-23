@@ -1,7 +1,8 @@
 # SC1015---Cirrhosis-Prediction repository
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on cirrhosis prediction from Cirrhosis Prediction Dataset.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on cirrhosis prediction from [Cirrhosis Prediction Dataset](https://www.kaggle.com/fedesoriano/cirrhosis-prediction-dataset/discussion)
+
 
 Here is an outline of the code:
   Data Extraction
